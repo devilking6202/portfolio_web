@@ -60,7 +60,7 @@ a:hover {
 
 .logo {
   font-size: 2rem;
-  color:coral;
+  
 }
 
 .logo:hover {
@@ -198,6 +198,7 @@ section {
 .title {
   font-size: 3rem;
   text-align: center;
+  color:coral;
 }
 
 #socials-container {
